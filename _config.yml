@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TrueNobility303"
+title                    : "Coco's site"
 title_separator          : "-"
-name                     : &name "Lesi Chen"
+name                     : &name "yzy"
 description              : &description "PhD student, IIIS, Tsinghua"
 url                      : https://truenobility303.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
